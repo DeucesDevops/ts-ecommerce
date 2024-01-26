@@ -14,7 +14,7 @@ function App() {
       </main>
 
       <footer>
-        All rights reserved
+        @ All rights reserved
       </footer>
     </div>
   )
